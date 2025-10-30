@@ -8,8 +8,14 @@
         "name": "ThailandLanguage",
         "label": "Language",
         "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
-    }
+    },
+	{
+    "name": "Openthefogforall",
+    "label": "Usability",
+    "url": "https://github.com/satosiki108/openthefogforall"
+	}
 ]
+
 
 
 
