@@ -18,6 +18,16 @@
         "name": "Cultivators Wardrobe",
         "label": "Item,Equipment,Building",
         "url": "https://github.com/ilhamfadheel/Cultivators-Wardrobe"
+	},
+    {
+        "name": "Item Qi Description",
+        "label": "Elixir,Item,Language",
+        "url": "https://github.com/ilhamfadheel/ItemQiDescription"
+	},
+    {
+        "name": "Numeric Description",
+        "label": "Esoterica,Usability,Integrated",
+        "url": "https://github.com/ilhamfadheel/Numeric-Description"
 	}
 ]
 
