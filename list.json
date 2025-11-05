@@ -10,9 +10,14 @@
         "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
     },
 	{
-    "name": "Openthefogforall",
-    "label": "Usability",
-    "url": "https://github.com/satosiki108/openthefogforall"
+	    "name": "Open All Fog",
+	    "label": "Usability",
+	    "url": "https://github.com/satosiki108/acs_open_all_fog"
+	},
+	{
+	    "name": "Increased Stacking Limit",
+	    "label": "Usability",
+	    "url": "https://github.com/satosiki108/acs_Increased_stacking_limit"
 	},
     {
         "name": "Cultivators Wardrobe",
@@ -28,24 +33,29 @@
         "name": "Numeric Description",
         "label": "Esoterica,Usability,Integrated",
         "url": "https://github.com/ilhamfadheel/Numeric-Description"
-	},{
+	},
+	{
         "name": "Seven Colour Pagoda",
         "label": "Elixir,Item,Building,Usability,Integrated",
         "url": "https://github.com/ilhamfadheel/SevenColourPagoda"
-	},{
+	},
+	{
         "name": "Show Law Stats",
         "label": "Function,Usability,Integrated",
         "url": "https://github.com/ilhamfadheel/ShowLawStatsV2"
-	},{
+	},
+	{
         "name": "Display Element Icon NPC",
         "label": "Function,Usability,Integrated",
         "url": "https://github.com/ilhamfadheel/DisplayElementIconNPC"
-	},{
+	},
+	{
         "name": "City Event Helper",
         "label": "Function,Usability",
         "url": "https://github.com/ilhamfadheel/CityEventHelper"
 	}
 ]
+
 
 
 
