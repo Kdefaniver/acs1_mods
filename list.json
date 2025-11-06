@@ -1,62 +1,77 @@
 [
-    {
-        "name": "ExampleMod",
-        "label": "Item,Equipment,Adventure",
-        "url": "https://github.com/GSQStudio/acs1_example_mod"
-    },
-	{
-        "name": "ThailandLanguage",
-        "label": "Language",
-        "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
-    },
-	{
-	    "name": "Open All Fog",
-	    "label": "Usability",
-	    "url": "https://github.com/satosiki108/acs_open_all_fog"
-	},
-	{
-	    "name": "Increased Stacking Limit",
-	    "label": "Usability",
-	    "url": "https://github.com/satosiki108/acs_Increased_stacking_limit"
-	},
-    {
-        "name": "Cultivators Wardrobe",
-        "label": "Item,Equipment,Building",
-        "url": "https://github.com/ilhamfadheel/Cultivators-Wardrobe"
-	},
-    {
-        "name": "Item Qi Description",
-        "label": "Elixir,Item,Language",
-        "url": "https://github.com/ilhamfadheel/ItemQiDescription"
-	},
-    {
-        "name": "Numeric Description",
-        "label": "Esoterica,Usability,Integrated",
-        "url": "https://github.com/ilhamfadheel/Numeric-Description"
-	},
-	{
-        "name": "Seven Colour Pagoda",
-        "label": "Elixir,Item,Building,Usability,Integrated",
-        "url": "https://github.com/ilhamfadheel/SevenColourPagoda"
-	},
-	{
-        "name": "Show Law Stats",
-        "label": "Function,Usability,Integrated",
-        "url": "https://github.com/ilhamfadheel/ShowLawStatsV2"
-	},
-	{
-        "name": "Display Element Icon NPC",
-        "label": "Function,Usability,Integrated",
-        "url": "https://github.com/ilhamfadheel/DisplayElementIconNPC"
-	},
-	{
-        "name": "City Event Helper",
-        "label": "Function,Usability",
-        "url": "https://github.com/ilhamfadheel/CityEventHelper"
-	}
+     {
+          "name": "ExampleMod",
+          "label": "Item,Equipment,Adventure",
+          "url": "https://github.com/GSQStudio/acs1_example_mod"
+     },
+     {
+          "name": "ThailandLanguage",
+          "label": "Language",
+          "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
+     },
+     {
+          "name": "Open All Fog",
+          "label": "Usability",
+          "url": "https://github.com/satosiki108/acs_open_all_fog"
+     },
+     {
+          "name": "Increased Stacking Limit",
+          "label": "Usability",
+          "url": "https://github.com/satosiki108/acs_Increased_stacking_limit"
+     },
+     {
+          "name": "Cultivators Wardrobe",
+          "label": "Item,Equipment,Building",
+          "url": "https://github.com/ilhamfadheel/Cultivators-Wardrobe"
+     },
+     {
+          "name": "Item Qi Description",
+          "label": "Elixir,Item,Language",
+          "url": "https://github.com/ilhamfadheel/ItemQiDescription"
+     },
+     {
+          "name": "Numeric Description",
+          "label": "Esoterica,Usability,Integrated",
+          "url": "https://github.com/ilhamfadheel/Numeric-Description"
+     },
+     {
+          "name": "Seven Colour Pagoda",
+          "label": "Elixir,Item,Building,Usability,Integrated",
+          "url": "https://github.com/ilhamfadheel/SevenColourPagoda"
+     },
+     {
+          "name": "Show Law Stats",
+          "label": "Function,Usability,Integrated",
+          "url": "https://github.com/ilhamfadheel/ShowLawStatsV2"
+     },
+     {
+          "name": "Display Element Icon NPC",
+          "label": "Function,Usability,Integrated",
+          "url": "https://github.com/ilhamfadheel/DisplayElementIconNPC"
+     },
+     {
+          "name": "City Event Helper",
+          "label": "Function,Usability",
+          "url": "https://github.com/ilhamfadheel/CityEventHelper"
+     },
+     {
+          "name": "Reverse Crystals",
+          "label": "Item,Usability,Integrated,Content",
+          "url": "https://github.com/ilhamfadheel/ReverseCrystals"
+     },
+     {
+          "name": "3 Color Souls",
+          "label": "Elixir,Building,Function,Usability,Integrated",
+          "url": "https://github.com/ilhamfadheel/3ColorSouls"
+     },
+     {
+          "name": "Call The Merchant",
+          "label": "Function,Usability",
+          "url": "https://github.com/ilhamfadheel/CallTheMerchant"
+     },
+     {
+          "name": "Divine Ascension",
+          "label": "Esoterica,Elixir,Item,Integrated,Content",
+          "url": "https://github.com/ilhamfadheel/DivineAscension"
+     }
 ]
-
-
-
-
-
