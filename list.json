@@ -73,5 +73,10 @@
           "name": "Divine Ascension",
           "label": "Esoterica,Elixir,Item,Integrated,Content",
           "url": "https://github.com/ilhamfadheel/DivineAscension"
+     },
+     {
+          "name": "Caged Animal Perception Fix",
+          "label": "Function",
+          "url": "https://github.com/Jai-ACS/Mod-CagedAnimalPerceptionFix"
      }
 ]
