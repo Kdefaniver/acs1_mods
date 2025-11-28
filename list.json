@@ -103,7 +103,13 @@
           "name": "Elysium | 极乐世界",
           "label": "Function,Usability,Integrated",
           "url": "https://github.com/Jai-ACS/Mod-Elysium"
-     }
+     },
+     {
+          "name": "IndonesianDesc",
+          "label": "Language",
+          "url": "https://github.com/kamalvnda/IndonesianDesc"
+     }   
 ]
+
 
 
