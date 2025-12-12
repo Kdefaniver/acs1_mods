@@ -115,8 +115,12 @@
           "url": "https://github.com/Jai-ACS/Mod-ShowMoreGridInfo"
      },
      {
+          "name": "Show Sect Prices | 显示门派价格",
+          "label": "Function,Usability,ExcludeRealmsHeaven",
+          "url": "https://github.com/Jai-ACS/Mod-ShowSectPrices",
           "name": "Unlock All Laws",
           "label": "Usability",
           "url": "https://github.com/kamalvnda/UnlockAllLaws"
      }
 ]
+
